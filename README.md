@@ -8,4 +8,5 @@ This is the source code for the [article on my blog about visualization of the g
 
 * [QuickGraph](http://quickgraph.codeplex.com/) - [License: Ms-PL](http://quickgraph.codeplex.com/license) QuickGraph provides generic directed/undirected graph datastructures and algorithms for .NET. 
 * [GraphSharp](http://graphsharp.codeplex.com/) - [License: Ms-PL](http://graphsharp.codeplex.com/) Graph# is a graph layout framework. It contains some layout algorithms and a GraphLayout control for WPF applications
+                                                - 
 ![Screenshot](http://igorshare.files.wordpress.com/2012/03/image_thumb1.png?w=644&h=467)
